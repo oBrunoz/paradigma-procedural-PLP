@@ -19,22 +19,24 @@
 
 ## **1. Paradigma Procedural**
 
-O **paradigma procedural**, também conhecido como programação procedimental, é um estilo de programação derivado do paradigma imperativo. Ele é baseado no conceito de chamadas de procedimentos, também conhecidos como sub-rotinas, funções ou métodos, dependendo da linguagem de programação.
+O **paradigma procedural**, também chamado e conhecido como programação procedural, é um método de programação que é derivado da programação imperativa. Foi inicialmente baseado no conceito de procedimentos, também chamados de sub rotinas, funções ou métodos.
 
-Neste paradigma, o programa é organizado em blocos de código chamados *procedimentos* (ou funções), que podem ser reutilizados em diferentes partes do código, tornando a programação mais estruturada e modular. A programação procedural incentiva a divisão de um problema em subtarefas menores, facilitando a manutenção e o entendimento do código.
+No paradigma procedural, todo o programa é estruturado e baseado em blocos de código que são chamados de *procedimentos* (ou funções), que podem ser reutilizados em diversas partes do código dependendo da sua necessidade, com isso tornando a programação mais estruturada e modular. Esse tipo de programação incentiva a divisão a divisão de um grande problema em problemas menores, facilitando a manutenção e o entendimento do código como um todo.
 
-Os principais conceitos da programação procedural incluem:
+Com base na programação procedura segue os principais conceitos:
 
-1. **Sequência de Instruções:** As operações são executadas de forma sequencial, ou seja, uma instrução após a outra.
-2. **Modularidade:** O código é organizado em procedimentos ou funções, que podem ser reutilizados em várias partes do programa.
-3. **Controle de Fluxo:** Através de estruturas como loops (*for*, *while*) e condicionais (*if*, *switch*), o fluxo de execução do programa pode ser controlado de acordo com determinadas condições.
-4. **Variáveis Globais e Locais:** A programação procedural trabalha com variáveis globais, acessíveis por todo o programa, e variáveis locais, acessíveis apenas dentro do escopo dos procedimentos onde foram declaradas.
-5. **Reutilização de Código:** Os procedimentos podem ser chamados em diferentes partes do programa, reduzindo a repetição de código e facilitando a manutenção.
 
-### **Exemplo de Linguagens Procedurais**  
+1. **Modularidade:** O código apresentado é organizado em procedimentos ou funções, que podem ser reutilizados conforme a necessidade no programa.
+2. **Reutilização de código:** Blocos que podem ser reutilizados auxiliam no dinamismo e reduz a repetição de código, facilitando assim a sua manutenção.
+3. **Sequência de instruções:** As operações que vão ser executadas seguem uma forma sequencial, ou seja, uma instrução após a outra conforme o algoritmo ordena.
+4. **Controle de fluxo:** Através de estruturas como loops(for,while) e condicionais (if, switch), o fluxo com o qual a execução vai ocorrer pode ser controldo de acordo com determinadas condições estabelecidas.
+5. **Variáveis globais e locais:** O paradigma procedural trabalha com variáveis que podem estar no escopo global ou local, sendo as variáveis globais acessíveis para todo o esopo do código e as variáveis locais sendo estruturadas para atender os procedimentos ou sub rotinas onde foram declaradas.
+
+### **Exemplos de linguagens procedurais.**
+  
 - **C**  
 - **Pascal**  
 - **Fortran**  
 - **Algol**
 
-Essas linguagens são amplamente utilizadas em sistemas que exigem eficiência e controle direto sobre os recursos do hardware, como sistemas operacionais e drivers.
+Todas essas linguagens são amplamente utilizadas em sistemas cuja a eficiência e o controle direto sobre os recursos do hardware são desejados, como SO (sistemas operacionais) e drivers.
