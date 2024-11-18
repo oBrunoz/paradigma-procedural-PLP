@@ -8,7 +8,7 @@
 - **Benjamin da Nóbrega Bezerra** - Matrícula: 29274028  
 - **Gabriel Oliveira Faria** - Matrícula: 29615267  
 - **Lívia Karla Tavares da Silva** - Matrícula: 29682304  
-- **Pedro Felipe do Carmo Baptista** - Matrícula: 30074924
+- **Pedro Fellipe do Carmo Baptista** - Matrícula: 30074924
 
 ---
 
